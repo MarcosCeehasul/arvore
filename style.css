@@ -1,0 +1,23 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #a0d9a0;
+    margin: 0;
+}
+
+.arvore {
+    position: relative;
+}
+
+.arvore-img {
+    width: 500px;
+}
+
+.maca {
+    position: absolute;
+    width: 40px; 
+    cursor: pointer;
+}
